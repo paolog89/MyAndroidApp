@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ListViewWithXMLPullParser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">XmlPullParser Demo</string>
+    <string name="str_iv_flag">Flag</string>
+
+</resources>
